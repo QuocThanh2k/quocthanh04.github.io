@@ -22,7 +22,7 @@ Dự án này nhằm mục đích xây dựng một hệ thống/quy trình giú
 Tất cả tài liệu và báo cáo liên quan đến dự án sẽ được lưu trữ trong kho lưu trữ riêng, đảm bảo tính bảo mật và dễ dàng truy cập khi cần.
 
 ## Liên hệ
-- Email: quocthanh@example.com
+- Email: quocthanh2614@gmail.com
 - Facebook: [Quốc Thanh](https://www.facebook.com/dinh.quocthanh.7906)
 - GitHub: [QuocThanh2k](https://github.com/QuocThanh2k)
 
